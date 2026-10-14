@@ -1,0 +1,10 @@
+[
+  {
+    "course_id": "IS101",
+    "title": "Information Systems"
+  },
+  {
+    "course_id": "DB101",
+    "title": "Databases"
+  }
+]
