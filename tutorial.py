@@ -9,7 +9,7 @@ app = FastAPI(title="First school API")
 
 @app.get("/")
 def welcome():
-    return {"message": "Hello from the school API"}
+    return {"message": "Hello from the school FHNW"}
 
 
 @app.get("/students/{student_id}")
